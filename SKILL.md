@@ -1,5 +1,5 @@
 ---
-name: fnos-openclaw-updater
+name: skill-fnos-updater
 description: "Update OpenClaw on fnOS NAS App Center to latest npm version safely"
 version: 1.0.0
 author: lzylipu
@@ -14,7 +14,7 @@ metadata:
   hermes:
     tags: [fnos, openclaw, update, nas, npm, 更新]
     related_skills: []
-    homepage: https://github.com/lzylipu/fnos-openclaw-updater
+    homepage: https://github.com/lzylipu/skill-fnos-updater
     category: personal
     skill_type: automation
 ---
