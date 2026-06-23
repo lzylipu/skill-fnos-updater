@@ -1,6 +1,6 @@
 ---
 name: skill-fnos-updater
-description: "Update OpenClaw on fnOS NAS App Center to latest npm version safely"
+description: "Update Hermes Agent on fnOS NAS App Center to latest npm version safely"
 version: 1.0.0
 author: lzylipu
 license: MIT
@@ -12,7 +12,7 @@ prerequisites:
       description: "fnOS App Center with managed OpenClaw installation"
 metadata:
   hermes:
-    tags: [fnos, openclaw, update, nas, npm, 更新]
+    tags: [fnos, hermes, update, nas, npm, 更新]
     related_skills: []
     homepage: https://github.com/lzylipu/skill-fnos-updater
     category: personal
