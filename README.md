@@ -1,6 +1,6 @@
 # fnOS OpenClaw Updater
 
-**[English](./README.md) | [中文](./README.zh-CN.md)**
+**English | [中文](./README.zh-CN.md)**
 
 Safely update OpenClaw on fnOS NAS App Center to the latest npm version, without modifying fnOS managed config files.
 
